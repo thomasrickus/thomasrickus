@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning advanced data structures and algorithms in C#
+- 🌱 I’m currently learning computer graphics in WebGL and game development in Unity
 - 🔭 I’m currently working on projects for my various courses
 
 <!--
