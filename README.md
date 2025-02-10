@@ -1,7 +1,4 @@
-### Hi there 👋
 
-- 🌱 I’m currently learning about Systems Programming in C and Operating Systems in C
-- 🔭 I’m currently working on projects for my various courses
 
 <!--
 **thomasrickus/thomasrickus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
